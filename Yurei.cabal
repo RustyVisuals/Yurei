@@ -25,6 +25,8 @@ source-repository head
 
 library
   exposed-modules:
+      Yurei.Tokenizer.Scanner
+      Yurei.Tokenizer.Span
       Yurei.Tokenizer.Token
   other-modules:
       Paths_Yurei

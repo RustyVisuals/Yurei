@@ -1,2 +1,3 @@
 # Yurei
-yurei compiler
+
+Compiler for the `yurei` scenario language

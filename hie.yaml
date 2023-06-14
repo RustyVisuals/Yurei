@@ -1,0 +1,13 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "Yurei:lib"
+
+    - path: "./app/Main.hs"
+      component: "Yurei:exe:Yurei-exe"
+
+    - path: "./app/Paths_Yurei.hs"
+      component: "Yurei:exe:Yurei-exe"
+
+    - path: "./test"
+      component: "Yurei:test:Yurei-test"
